@@ -1,0 +1,15 @@
+# 
+#
+# This file contains the parameter names for a derived Fisher matrix.
+# Derived parameters are indicated with a * at the end of the name.
+#
+Omegam    \Omega_{{\rm m},0}    0.320
+Omegab    \Omega_{{\rm b},0}    0.050
+w0    w_0    -1.0
+wa    w_a    0.
+h    h    0.67
+ns    n_{\rm s}    0.960
+sigma8    \sigma_{8}    0.815583
+aIA    A_{IA}    1.72
+eIA    \eta_{IA}    -0.41
+bIA    \beta_{IA}    2.17
