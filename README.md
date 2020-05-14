@@ -57,7 +57,7 @@ the fiducial value of the parameter and `eps` the value of the relative step).
 All the power spectrum files have the column structure
 
 <pre>
-k [h=Mpc]      linear P(k,z)/sigma8^2(z) [Mpc^3/h^3]      sigma8^2(z)
+k [h/Mpc]      linear P(k,z)/sigma8^2(z) [Mpc^3/h^3]      sigma8^2(z)
 </pre>
 
 
